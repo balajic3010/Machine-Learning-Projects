@@ -3,5 +3,5 @@ The data was preprocessed by handling missing values, converting and extracting 
 Both Random Forest Regressor and Random Forest Classifier algorithms were applied to the dataset to experiment and compare model behavior for regression and classification tasks. 
 The model learned patterns based on travel-related features and demonstrated effective performance in predicting airline fares through machine-learning-based analysis.
 
-Technologies & Libraries Used:
+Technologies & Libraries Used :
 Python, Pandas, NumPy, Scikit-learn, Seaborn, Random Forest (Regressor & Classifier)
