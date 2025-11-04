@@ -4,5 +4,4 @@ A Linear Regression model was trained to learn the relationship between laptop f
 After training, the model was used to predict prices for unseen laptop configurations. 
 This project demonstrates feature engineering, data preprocessing, and linear regression model building.
 
-Technologies Used : Python, Pandas, NumPy, Scikit-learn 
-Key Concepts : Linear Regression, Data Preprocessing, One-Hot Encoding, Prediction
+Technologies Used : Python, Pandas, NumPy, Scikit-learn, Seaborn
