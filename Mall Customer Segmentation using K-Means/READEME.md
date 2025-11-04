@@ -4,5 +4,5 @@ Data preprocessing included handling categorical features, standardizing numeric
 After training the K-Means model, customers were grouped into meaningful clusters (e.g., high-income high-spenders, low-income low-spenders), enabling better customer targeting and business marketing strategies. 
 Insights were visualized using scatter plots to clearly distinguish cluster patterns.
 
-Technologies & Libraries Used:
+Technologies & Libraries Used :
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, K-Means Clustering
