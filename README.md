@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+Welcome to my Machine Learning Projects repository. This repository contains a collection of projects demonstrating my understanding and application of various machine learning algorithms using Python and popular libraries like scikit-learn, pandas, numpy, matplotlib, and seaborn.
